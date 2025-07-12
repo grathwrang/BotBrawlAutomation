@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Judges Overview</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+    h1, h2 { text-align: center; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #444; padding: 8px; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Judges Overview</h1>
+  <h2>Current Winner: {{ winner }}</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Judge</th>
+        <th>Damage</th>
+        <th>Aggression</th>
+        <th>Control</th>
+        <th>Total Red</th>
+        <th>Total White</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for judge in judges %}
+        {% set idx = loop.index %}
+        <tr>
+          <td>{{ idx }}</td>
+          <td>{{ judge.dmg or "-" }}</td>
+          <td>{{ judge.agg or "-" }}</td>
+          <td>{{ judge.ctrl or "-" }}</td>
+          <td>{{ judge.total_red if judge.total_red is not none else "-" }}</td>
+          <td>{{ judge.total_white if judge.total_white is not none else "-" }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+<script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+<script>
+  const socket = io();
+  socket.on('update_overview', function() {
+    location.reload();
+  });
+</script>
+</body>
+</html>

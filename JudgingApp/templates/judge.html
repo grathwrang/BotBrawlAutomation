@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Judge {{ judge_number }}</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; }
+    h1 { text-align: center; }
+    label { display: block; margin-top: 10px; }
+    select { width: 100%; padding: 6px; font-size: 1em; margin-top: 5px; }
+    button { margin-top: 15px; padding: 8px 15px; font-size: 1em; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>Judge {{ judge_number }}</h1>
+  <form method="POST">
+    <label>Damage
+      <select name="dmg" required>
+        <option value="" disabled {% if not judge.dmg %}selected{% endif %}>Select Damage</option>
+        {% for choice in damage_choices %}
+          <option value="{{ choice }}" {% if judge.dmg == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <label>Aggression
+      <select name="agg" required>
+        <option value="" disabled {% if not judge.agg %}selected{% endif %}>Select Aggression</option>
+        {% for choice in aggression_choices %}
+          <option value="{{ choice }}" {% if judge.agg == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <label>Control
+      <select name="ctrl" required>
+        <option value="" disabled {% if not judge.ctrl %}selected{% endif %}>Select Control</option>
+        {% for choice in control_choices %}
+          <option value="{{ choice }}" {% if judge.ctrl == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    <button type="submit">Submit Scores</button>
+  </form>
+</body>
+</html>

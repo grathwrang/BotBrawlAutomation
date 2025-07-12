@@ -1,0 +1,29 @@
+{
+  "judges": [
+    {
+      "judge": 1,
+      "damage": "7-1",
+      "aggression": "3-2",
+      "control": "5-1",
+      "total_red": 15,
+      "total_white": 4
+    },
+    {
+      "judge": 2,
+      "damage": "7-1",
+      "aggression": "4-1",
+      "control": "4-2",
+      "total_red": 15,
+      "total_white": 4
+    },
+    {
+      "judge": 3,
+      "damage": "7-1",
+      "aggression": "5-0",
+      "control": "4-2",
+      "total_red": 16,
+      "total_white": 3
+    }
+  ],
+  "winner": "Red Square"
+}

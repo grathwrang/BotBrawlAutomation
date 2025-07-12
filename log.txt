@@ -1,0 +1,555 @@
+2024-09-17 08:34:09 - Extracted Text:
+2024-09-17 08:34:09 - bucket
+2024-09-17 08:34:09 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:34:15 - Extracted Text:
+2024-09-17 08:34:15 - bucket
+2024-09-17 08:34:15 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:34:35 - Extracted Text:
+2024-09-17 08:34:35 - bucket
+2024-09-17 08:34:35 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:35:14 - Extracted Text:
+2024-09-17 08:35:14 - bucket
+2024-09-17 08:35:14 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:36:41 - Extracted Text:
+2024-09-17 08:36:41 - bucket
+2024-09-17 08:36:41 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:37:05 - Extracted Text:
+2024-09-17 08:37:05 - bucket
+2024-09-17 08:37:05 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:39:00 - Extracted Text:
+2024-09-17 08:39:00 - bucket
+2024-09-17 08:39:00 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:39:06 - Extracted Text:
+2024-09-17 08:39:06 - bucket
+2024-09-17 08:39:06 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:44:31 - Extracted Text:
+2024-09-17 08:44:31 - bucket
+2024-09-17 08:44:31 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:44:40 - Extracted Text:
+2024-09-17 08:44:40 - bucket
+2024-09-17 08:44:40 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:44:41 - Extracted Text:
+2024-09-17 08:44:41 - reaction
+2024-09-17 08:44:41 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:44:44 - Extracted Text:
+2024-09-17 08:44:44 - bucket
+2024-09-17 08:44:44 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:44:50 - Extracted Text:
+2024-09-17 08:44:50 - reaction
+2024-09-17 08:44:50 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:44:54 - Extracted Text:
+2024-09-17 08:44:54 - reaction
+2024-09-17 08:44:54 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:53:23 - Extracted Text:
+2024-09-17 08:53:23 - bucket
+2024-09-17 08:53:23 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:53:31 - Extracted Text:
+2024-09-17 08:53:31 - bucket
+2024-09-17 08:53:31 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:53:34 - Extracted Text:
+2024-09-17 08:53:34 - reaction
+2024-09-17 08:53:34 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:53:41 - Extracted Text:
+2024-09-17 08:53:41 - reaction
+2024-09-17 08:53:41 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:54:36 - Extracted Text:
+2024-09-17 08:54:36 - bucket
+2024-09-17 08:54:36 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:54:47 - Extracted Text:
+2024-09-17 08:54:47 - reaction
+2024-09-17 08:54:47 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:57:14 - Extracted Text:
+2024-09-17 08:57:14 - bucket
+2024-09-17 08:57:14 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:57:24 - Extracted Text:
+2024-09-17 08:57:24 - reaction
+2024-09-17 08:57:24 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:57:39 - Extracted Text:
+2024-09-17 08:57:39 - bucket
+2024-09-17 08:57:39 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:57:49 - Extracted Text:
+2024-09-17 08:57:49 - reaction
+2024-09-17 08:57:49 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 08:57:59 - Extracted Text:
+2024-09-17 08:57:59 - bucket
+2024-09-17 08:57:59 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 08:58:10 - Extracted Text:
+2024-09-17 08:58:10 - reaction
+2024-09-17 08:58:10 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:24:11 - Extracted Text:
+2024-09-17 09:24:11 - bucket
+2024-09-17 09:24:11 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:24:23 - Extracted Text:
+2024-09-17 09:24:23 - reaction
+2024-09-17 09:24:23 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:24:33 - Extracted Text:
+2024-09-17 09:24:33 - exploration
+2024-09-17 09:24:33 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:24:43 - Extracted Text:
+2024-09-17 09:24:43 - foundation
+2024-09-17 09:24:43 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:39:49 - Extracted Text:
+2024-09-17 09:39:49 - bucket
+2024-09-17 09:39:49 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:39:59 - Extracted Text:
+2024-09-17 09:39:59 - reaction
+2024-09-17 09:39:59 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:40:09 - Extracted Text:
+2024-09-17 09:40:09 - exploration
+2024-09-17 09:40:09 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:40:19 - Extracted Text:
+2024-09-17 09:40:19 - foundation
+2024-09-17 09:40:19 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:42:05 - Extracted Text:
+2024-09-17 09:42:05 - bucket
+2024-09-17 09:42:05 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:42:15 - Extracted Text:
+2024-09-17 09:42:15 - reaction
+2024-09-17 09:42:15 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:42:26 - Extracted Text:
+2024-09-17 09:42:26 - exploration
+2024-09-17 09:42:26 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:42:36 - Extracted Text:
+2024-09-17 09:42:36 - foundation
+2024-09-17 09:42:36 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:43:04 - Extracted Text:
+2024-09-17 09:43:04 - bucket
+2024-09-17 09:43:04 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:43:14 - Extracted Text:
+2024-09-17 09:43:14 - reaction
+2024-09-17 09:43:14 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:43:25 - Extracted Text:
+2024-09-17 09:43:25 - exploration
+2024-09-17 09:43:25 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:43:37 - Extracted Text:
+2024-09-17 09:43:37 - foundation
+2024-09-17 09:43:37 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:44:09 - Extracted Text:
+2024-09-17 09:44:09 - bucket
+2024-09-17 09:44:09 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:44:19 - Extracted Text:
+2024-09-17 09:44:19 - reaction
+2024-09-17 09:44:19 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:44:29 - Extracted Text:
+2024-09-17 09:44:29 - exploration
+2024-09-17 09:44:29 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:44:39 - Extracted Text:
+2024-09-17 09:44:39 - foundation
+2024-09-17 09:44:39 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:46:01 - Extracted Text:
+2024-09-17 09:46:01 - bucket
+2024-09-17 09:46:01 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:46:12 - Extracted Text:
+2024-09-17 09:46:12 - reaction
+2024-09-17 09:46:12 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:46:22 - Extracted Text:
+2024-09-17 09:46:22 - exploration
+2024-09-17 09:46:22 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:46:32 - Extracted Text:
+2024-09-17 09:46:32 - foundation
+2024-09-17 09:46:32 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:48:09 - Extracted Text:
+2024-09-17 09:48:09 - bucket
+2024-09-17 09:48:09 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:48:19 - Extracted Text:
+2024-09-17 09:48:19 - reaction
+2024-09-17 09:48:19 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:48:29 - Extracted Text:
+2024-09-17 09:48:29 - exploration
+2024-09-17 09:48:29 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:48:39 - Extracted Text:
+2024-09-17 09:48:39 - foundation
+2024-09-17 09:48:39 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:49:53 - Extracted Text:
+2024-09-17 09:49:53 - bucket
+2024-09-17 09:49:53 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:50:05 - Extracted Text:
+2024-09-17 09:50:05 - reaction
+2024-09-17 09:50:05 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:50:15 - Extracted Text:
+2024-09-17 09:50:15 - exploration
+2024-09-17 09:50:15 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:50:26 - Extracted Text:
+2024-09-17 09:50:26 - foundation
+2024-09-17 09:50:26 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:51:29 - Extracted Text:
+2024-09-17 09:51:29 - bucket
+2024-09-17 09:51:29 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:51:39 - Extracted Text:
+2024-09-17 09:51:39 - reaction
+2024-09-17 09:51:39 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:51:50 - Extracted Text:
+2024-09-17 09:51:50 - exploration
+2024-09-17 09:51:50 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:52:00 - Extracted Text:
+2024-09-17 09:52:00 - foundation
+2024-09-17 09:52:00 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2024-09-17 09:53:49 - Extracted Text:
+2024-09-17 09:53:49 - bucket
+2024-09-17 09:53:49 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\Users\dougj\BotBrawl\inboxwhite.txt
+2024-09-17 09:53:59 - Extracted Text:
+2024-09-17 09:53:59 - reaction
+2024-09-17 09:53:59 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\Users\dougj\BotBrawl\inboxred.txt
+2024-09-17 09:54:09 - Extracted Text:
+2024-09-17 09:54:09 - exploration
+2024-09-17 09:54:09 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\Users\dougj\BotBrawl\ondeckred.txt
+2024-09-17 09:54:19 - Extracted Text:
+2024-09-17 09:54:19 - foundation
+2024-09-17 09:54:19 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\Users\dougj\BotBrawl\ondeckwhite.txt
+2025-07-01 13:24:58 - Extracted Text:
+2025-07-01 13:24:58 - midnight
+2025-07-01 13:24:58 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:25:06 - Extracted Text:
+2025-07-01 13:25:06 - midnight
+2025-07-01 13:25:06 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:25:22 - Extracted Text:
+2025-07-01 13:25:22 - legislation
+2025-07-01 13:25:22 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:25:55 - Extracted Text:
+2025-07-01 13:25:55 - legislation
+2025-07-01 13:25:55 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:26:01 - Extracted Text:
+2025-07-01 13:26:01 - midnight
+2025-07-01 13:26:01 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:26:07 - Extracted Text:
+2025-07-01 13:26:07 - fashion
+2025-07-01 13:26:07 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:26:13 - Extracted Text:
+2025-07-01 13:26:13 - movement
+2025-07-01 13:26:13 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:26:25 - Extracted Text:
+2025-07-01 13:26:25 - legislation
+2025-07-01 13:26:25 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:26:31 - Extracted Text:
+2025-07-01 13:26:31 - midnight
+2025-07-01 13:26:31 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:26:38 - Extracted Text:
+2025-07-01 13:26:38 - fashion
+2025-07-01 13:26:38 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:26:44 - Extracted Text:
+2025-07-01 13:26:44 - movement
+2025-07-01 13:26:44 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:26:57 - Extracted Text:
+2025-07-01 13:26:57 - legislation
+2025-07-01 13:26:57 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:27:03 - Extracted Text:
+2025-07-01 13:27:03 - midnight
+2025-07-01 13:27:03 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:27:10 - Extracted Text:
+2025-07-01 13:27:10 - fashion
+2025-07-01 13:27:10 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:27:16 - Extracted Text:
+2025-07-01 13:27:16 - movement
+2025-07-01 13:27:16 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:27:17 - Extracted Text:
+2025-07-01 13:27:17 - legislation
+2025-07-01 13:27:17 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:27:24 - Extracted Text:
+2025-07-01 13:27:24 - midnight
+2025-07-01 13:27:24 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:27:28 - Extracted Text:
+2025-07-01 13:27:28 - legislation
+2025-07-01 13:27:28 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:27:30 - Extracted Text:
+2025-07-01 13:27:30 - fashion
+2025-07-01 13:27:30 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:27:34 - Extracted Text:
+2025-07-01 13:27:34 - midnight
+2025-07-01 13:27:34 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:27:37 - Extracted Text:
+2025-07-01 13:27:37 - movement
+2025-07-01 13:27:37 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:27:40 - Extracted Text:
+2025-07-01 13:27:40 - fashion
+2025-07-01 13:27:40 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:27:47 - Extracted Text:
+2025-07-01 13:27:47 - movement
+2025-07-01 13:27:47 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:28:05 - Extracted Text:
+2025-07-01 13:28:05 - legislation
+2025-07-01 13:28:05 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:28:11 - Extracted Text:
+2025-07-01 13:28:11 - midnight
+2025-07-01 13:28:11 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:28:17 - Extracted Text:
+2025-07-01 13:28:17 - fashion
+2025-07-01 13:28:17 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:28:19 - Extracted Text:
+2025-07-01 13:28:19 - legislation
+2025-07-01 13:28:19 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:28:23 - Extracted Text:
+2025-07-01 13:28:23 - movement
+2025-07-01 13:28:23 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:28:25 - Extracted Text:
+2025-07-01 13:28:25 - midnight
+2025-07-01 13:28:25 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:28:32 - Extracted Text:
+2025-07-01 13:28:32 - fashion
+2025-07-01 13:28:32 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:28:38 - Extracted Text:
+2025-07-01 13:28:38 - movement
+2025-07-01 13:28:38 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:28:51 - Extracted Text:
+2025-07-01 13:28:51 - legislation
+2025-07-01 13:28:51 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:28:57 - Extracted Text:
+2025-07-01 13:28:57 - midnight
+2025-07-01 13:28:57 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:29:03 - Extracted Text:
+2025-07-01 13:29:03 - fashion
+2025-07-01 13:29:03 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:29:10 - Extracted Text:
+2025-07-01 13:29:10 - movement
+2025-07-01 13:29:10 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:29:12 - Extracted Text:
+2025-07-01 13:29:12 - legislation
+2025-07-01 13:29:12 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:29:19 - Extracted Text:
+2025-07-01 13:29:19 - midnight
+2025-07-01 13:29:19 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:29:25 - Extracted Text:
+2025-07-01 13:29:25 - fashion
+2025-07-01 13:29:25 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:29:31 - Extracted Text:
+2025-07-01 13:29:31 - legislation
+2025-07-01 13:29:31 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:29:31 - Extracted Text:
+2025-07-01 13:29:31 - movement
+2025-07-01 13:29:31 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:29:37 - Extracted Text:
+2025-07-01 13:29:37 - midnight
+2025-07-01 13:29:37 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:29:43 - Extracted Text:
+2025-07-01 13:29:43 - fashion
+2025-07-01 13:29:43 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:29:50 - Extracted Text:
+2025-07-01 13:29:50 - movement
+2025-07-01 13:29:50 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-01 13:29:56 - Extracted Text:
+2025-07-01 13:29:56 - legislation
+2025-07-01 13:29:56 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-01 13:30:03 - Extracted Text:
+2025-07-01 13:30:03 - midnight
+2025-07-01 13:30:03 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-01 13:30:09 - Extracted Text:
+2025-07-01 13:30:09 - fashion
+2025-07-01 13:30:09 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-01 13:30:15 - Extracted Text:
+2025-07-01 13:30:15 - movement
+2025-07-01 13:30:15 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:21:54 - Extracted Text:
+2025-07-02 05:21:54 - midnight
+2025-07-02 05:21:54 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:21:55 - Extracted Text:
+2025-07-02 05:21:55 - legislation
+2025-07-02 05:21:55 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:21:56 - Extracted Text:
+2025-07-02 05:21:56 - fashion
+2025-07-02 05:21:56 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:21:56 - Extracted Text:
+2025-07-02 05:21:56 - movement
+2025-07-02 05:21:56 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:22:16 - Extracted Text:
+2025-07-02 05:22:16 - midnight
+2025-07-02 05:22:16 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:22:16 - Extracted Text:
+2025-07-02 05:22:16 - legislation
+2025-07-02 05:22:16 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:22:17 - Extracted Text:
+2025-07-02 05:22:17 - fashion
+2025-07-02 05:22:17 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:22:18 - Extracted Text:
+2025-07-02 05:22:18 - movement
+2025-07-02 05:22:18 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:22:28 - Extracted Text:
+2025-07-02 05:22:28 - midnight
+2025-07-02 05:22:28 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:22:29 - Extracted Text:
+2025-07-02 05:22:29 - legislation
+2025-07-02 05:22:29 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:22:29 - Extracted Text:
+2025-07-02 05:22:29 - fashion
+2025-07-02 05:22:29 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:22:30 - Extracted Text:
+2025-07-02 05:22:30 - movement
+2025-07-02 05:22:30 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:22:47 - Extracted Text:
+2025-07-02 05:22:47 - midnight
+2025-07-02 05:22:47 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:22:47 - Extracted Text:
+2025-07-02 05:22:47 - legislation
+2025-07-02 05:22:47 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:22:48 - Extracted Text:
+2025-07-02 05:22:48 - fashion
+2025-07-02 05:22:48 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:22:49 - Extracted Text:
+2025-07-02 05:22:49 - movement
+2025-07-02 05:22:49 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:23:06 - Extracted Text:
+2025-07-02 05:23:06 - midnight
+2025-07-02 05:23:06 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:23:06 - Extracted Text:
+2025-07-02 05:23:06 - legislation
+2025-07-02 05:23:06 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:23:07 - Extracted Text:
+2025-07-02 05:23:07 - fashion
+2025-07-02 05:23:07 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:23:08 - Extracted Text:
+2025-07-02 05:23:08 - movement
+2025-07-02 05:23:08 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:23:23 - Extracted Text:
+2025-07-02 05:23:23 - midnight
+2025-07-02 05:23:23 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:23:24 - Extracted Text:
+2025-07-02 05:23:24 - legislation
+2025-07-02 05:23:24 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:23:25 - Extracted Text:
+2025-07-02 05:23:25 - fashion
+2025-07-02 05:23:25 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:23:26 - Extracted Text:
+2025-07-02 05:23:26 - movement
+2025-07-02 05:23:26 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:23:47 - Extracted Text:
+2025-07-02 05:23:47 - midnight
+2025-07-02 05:23:47 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:23:47 - Extracted Text:
+2025-07-02 05:23:47 - legislation
+2025-07-02 05:23:47 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:23:48 - Extracted Text:
+2025-07-02 05:23:48 - fashion
+2025-07-02 05:23:48 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:23:48 - Extracted Text:
+2025-07-02 05:23:48 - movement
+2025-07-02 05:23:48 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 05:24:08 - Extracted Text:
+2025-07-02 05:24:08 - midnight
+2025-07-02 05:24:08 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 05:24:09 - Extracted Text:
+2025-07-02 05:24:09 - legislation
+2025-07-02 05:24:09 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 05:24:09 - Extracted Text:
+2025-07-02 05:24:09 - fashion
+2025-07-02 05:24:09 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 05:24:10 - Extracted Text:
+2025-07-02 05:24:10 - movement
+2025-07-02 05:24:10 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:09:39 - Extracted Text:
+2025-07-02 06:09:39 - legislation
+2025-07-02 06:09:39 - Text from https://botbrawl.appspot.com/InBoxWhite.html has been saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:09:46 - Extracted Text:
+2025-07-02 06:09:46 - midnight
+2025-07-02 06:09:46 - Text from https://botbrawl.appspot.com/InBoxRed.html has been saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:09:46 - Extracted Text:
+2025-07-02 06:09:46 - midnight
+2025-07-02 06:09:46 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:09:47 - Extracted Text:
+2025-07-02 06:09:47 - legislation
+2025-07-02 06:09:47 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:09:47 - Extracted Text:
+2025-07-02 06:09:47 - fashion
+2025-07-02 06:09:47 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:09:49 - Extracted Text:
+2025-07-02 06:09:49 - movement
+2025-07-02 06:09:49 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:09:52 - Extracted Text:
+2025-07-02 06:09:52 - fashion
+2025-07-02 06:09:52 - Text from https://botbrawl.appspot.com/OnDeckRed.html has been saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:09:55 - Extracted Text:
+2025-07-02 06:09:55 - midnight
+2025-07-02 06:09:55 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:09:55 - Extracted Text:
+2025-07-02 06:09:55 - legislation
+2025-07-02 06:09:55 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:09:56 - Extracted Text:
+2025-07-02 06:09:56 - fashion
+2025-07-02 06:09:56 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:09:56 - Extracted Text:
+2025-07-02 06:09:56 - movement
+2025-07-02 06:09:56 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:09:58 - Extracted Text:
+2025-07-02 06:09:58 - movement
+2025-07-02 06:09:58 - Text from https://botbrawl.appspot.com/OnDeckWhite.html has been saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:10:09 - Extracted Text:
+2025-07-02 06:10:09 - midnight
+2025-07-02 06:10:09 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:10:09 - Extracted Text:
+2025-07-02 06:10:09 - legislation
+2025-07-02 06:10:09 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:10:10 - Extracted Text:
+2025-07-02 06:10:10 - fashion
+2025-07-02 06:10:10 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:10:11 - Extracted Text:
+2025-07-02 06:10:11 - movement
+2025-07-02 06:10:11 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:11:58 - Extracted Text:
+2025-07-02 06:11:58 - midnight
+2025-07-02 06:11:58 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:11:59 - Extracted Text:
+2025-07-02 06:11:59 - legislation
+2025-07-02 06:11:59 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:12:00 - Extracted Text:
+2025-07-02 06:12:00 - fashion
+2025-07-02 06:12:00 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:12:01 - Extracted Text:
+2025-07-02 06:12:01 - movement
+2025-07-02 06:12:01 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:12:21 - Extracted Text:
+2025-07-02 06:12:21 - midnight
+2025-07-02 06:12:21 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:12:22 - Extracted Text:
+2025-07-02 06:12:22 - legislation
+2025-07-02 06:12:22 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:12:23 - Extracted Text:
+2025-07-02 06:12:23 - fashion
+2025-07-02 06:12:23 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:12:23 - Extracted Text:
+2025-07-02 06:12:23 - midnight
+2025-07-02 06:12:23 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:12:23 - Extracted Text:
+2025-07-02 06:12:23 - movement
+2025-07-02 06:12:23 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:12:24 - Extracted Text:
+2025-07-02 06:12:24 - legislation
+2025-07-02 06:12:24 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:12:24 - Extracted Text:
+2025-07-02 06:12:24 - midnight
+2025-07-02 06:12:24 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:12:24 - Extracted Text:
+2025-07-02 06:12:24 - fashion
+2025-07-02 06:12:24 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:12:25 - Extracted Text:
+2025-07-02 06:12:25 - legislation
+2025-07-02 06:12:25 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:12:26 - Extracted Text:
+2025-07-02 06:12:26 - movement
+2025-07-02 06:12:26 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:12:26 - Extracted Text:
+2025-07-02 06:12:26 - fashion
+2025-07-02 06:12:26 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:12:26 - Extracted Text:
+2025-07-02 06:12:26 - movement
+2025-07-02 06:12:26 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:12:31 - Extracted Text:
+2025-07-02 06:12:31 - midnight
+2025-07-02 06:12:31 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxred.txt
+2025-07-02 06:12:32 - Extracted Text:
+2025-07-02 06:12:32 - legislation
+2025-07-02 06:12:32 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhite.txt
+2025-07-02 06:12:33 - Extracted Text:
+2025-07-02 06:12:33 - fashion
+2025-07-02 06:12:33 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckred.txt
+2025-07-02 06:12:33 - Extracted Text:
+2025-07-02 06:12:33 - movement
+2025-07-02 06:12:33 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhite.txt
+2025-07-02 06:13:43 - Extracted Text:
+2025-07-02 06:13:43 - midnight
+2025-07-02 06:13:43 - Text from https://botbrawl.appspot.com/InBoxRed.html saved to C:\BotBrawl\automation\inboxredholder.txt
+2025-07-02 06:13:45 - Extracted Text:
+2025-07-02 06:13:45 - legislation
+2025-07-02 06:13:45 - Text from https://botbrawl.appspot.com/InBoxWhite.html saved to C:\BotBrawl\automation\inboxwhiteholder.txt
+2025-07-02 06:13:46 - Extracted Text:
+2025-07-02 06:13:46 - fashion
+2025-07-02 06:13:46 - Text from https://botbrawl.appspot.com/OnDeckRed.html saved to C:\BotBrawl\automation\ondeckredholder.txt
+2025-07-02 06:13:46 - Extracted Text:
+2025-07-02 06:13:46 - movement
+2025-07-02 06:13:46 - Text from https://botbrawl.appspot.com/OnDeckWhite.html saved to C:\BotBrawl\automation\ondeckwhiteholder.txt

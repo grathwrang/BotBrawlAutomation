@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BotBrawl Scoring</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 20px; }
+  h1 { text-align: center; }
+  .judge-form { border: 2px solid #333; padding: 15px; margin-bottom: 20px; border-radius: 8px; }
+  .judge-title { font-weight: bold; font-size: 1.2em; margin-bottom: 10px; }
+  label { display: block; margin-top: 10px; }
+  select { width: 100%; padding: 6px; font-size: 1em; margin-top: 5px; }
+  button { margin-top: 15px; padding: 8px 15px; font-size: 1em; cursor: pointer; }
+  .winner { font-size: 1.3em; font-weight: bold; margin-top: 30px; text-align: center; }
+</style>
+</head>
+<body>
+<h1>BotBrawl Scoring</h1>
+
+{% for judge in judges %}
+  {% set idx = loop.index0 %}
+  <form class="judge-form" method="POST">
+    <div class="judge-title">Judge {{ idx + 1 }}</div>
+    <input type="hidden" name="judge" value="{{ idx }}" />
+    
+    <label>Damage
+      <select name="dmg" required>
+        <option value="" disabled {% if not judge.dmg %}selected{% endif %}>Select Damage</option>
+        {% for choice in damage_choices %}
+          <option value="{{ choice }}" {% if judge.dmg == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    
+    <label>Aggression
+      <select name="agg" required>
+        <option value="" disabled {% if not judge.agg %}selected{% endif %}>Select Aggression</option>
+        {% for choice in aggression_choices %}
+          <option value="{{ choice }}" {% if judge.agg == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    
+    <label>Control
+      <select name="ctrl" required>
+        <option value="" disabled {% if not judge.ctrl %}selected{% endif %}>Select Control</option>
+        {% for choice in control_choices %}
+          <option value="{{ choice }}" {% if judge.ctrl == choice %}selected{% endif %}>{{ choice }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    
+    <div style="margin-top: 10px;">
+      <strong>Total Points:</strong>
+      {% if judge.dmg and judge.agg and judge.ctrl %}
+        {% set dmg_a, dmg_b = judge.dmg.split('-') %}
+        {% set agg_a, agg_b = judge.agg.split('-') %}
+        {% set ctrl_a, ctrl_b = judge.ctrl.split('-') %}
+        {{ (dmg_a|int + agg_a|int + ctrl_a|int) }} (Red) - {{ (dmg_b|int + agg_b|int + ctrl_b|int) }} (White)
+      {% else %}
+        N/A
+      {% endif %}
+    </div>
+
+    <button type="submit">Submit Judge {{ idx + 1 }} Scores</button>
+  </form>
+{% endfor %}
+
+<div class="winner">
+  Current Winner: {{ winner }}
+</div>
+
+</body>
+</html>
