@@ -1,11 +1,12 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_socketio import SocketIO, emit
 import json
 
 app = Flask(__name__)
-socketio = SocketIO(app)  # <-- Use SocketIO
+app.secret_key = "supersecret"  # Needed for flash messages
+socketio = SocketIO(app)
 
-NUM_JUDGES = 3  # Change this if you want a different number of judges
+NUM_JUDGES = 3
 
 judges_data = [
     {"dmg": None, "agg": None, "ctrl": None} for _ in range(NUM_JUDGES)
@@ -18,6 +19,8 @@ CONTROL_CHOICES = ["6-0", "5-1", "4-2", "3-3", "2-4", "1-5", "0-6"]
 OUTPUT_FILE = "botbrawl_scores.json"
 
 def parse_score(score_str):
+    if not score_str or "-" not in score_str:
+        return 0, 0
     a, b = map(int, score_str.split('-'))
     return a, b
 
@@ -77,7 +80,6 @@ def save_scores():
 @app.route("/")
 def index():
     winner = calculate_winner()
-    # Send all judge data to template
     judges_with_totals = []
     for judge in judges_data:
         if None in judge.values():
@@ -90,14 +92,10 @@ def index():
             total_white = dmg_b + agg_b + ctrl_b
         judges_with_totals.append({
             **judge,
-            "total_red": total_red if 'total_red' in locals() else None,
-            "total_white": total_white if 'total_white' in locals() else None,
+            "total_red": total_red,
+            "total_white": total_white,
         })
-    return render_template(
-        "overview.html",
-        judges=judges_with_totals,
-        winner=winner
-    )
+    return render_template("overview.html", judges=judges_with_totals, winner=winner)
 
 @app.route("/judge/<int:judge_id>", methods=["GET", "POST"])
 def judge(judge_id):
@@ -111,19 +109,28 @@ def judge(judge_id):
         judges_data[judge_idx]["agg"] = request.form["agg"]
         judges_data[judge_idx]["ctrl"] = request.form["ctrl"]
         save_scores()
-        # Emit update to all connected clients
         socketio.emit('update_overview')
+        flash("Scores submitted successfully!")
         return redirect(url_for("judge", judge_id=judge_id))
 
-    # The GET request should render the template, so this must be indented inside the function
     return render_template(
         "judge.html",
         judge_number=judge_id,
         damage_choices=DAMAGE_CHOICES,
         aggression_choices=AGGRESSION_CHOICES,
         control_choices=CONTROL_CHOICES,
-        judge=judges_data[judge_idx]  # <--- Pass as 'judge'
+        judge=judges_data[judge_idx]
     )
+
+@app.route("/reset", methods=["POST"])
+def reset_scores():
+    global judges_data
+    judges_data = [
+        {"dmg": None, "agg": None, "ctrl": None} for _ in range(NUM_JUDGES)
+    ]
+    save_scores()
+    socketio.emit('update_overview')
+    return redirect(url_for("index"))
 
 if __name__ == "__main__":
     socketio.run(app, debug=True, host="0.0.0.0")
