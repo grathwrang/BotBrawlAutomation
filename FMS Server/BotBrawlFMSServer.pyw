@@ -54,10 +54,11 @@ def timer_loop():
             if state["status"] == "running" and state["remaining"] > 0:
                 state["remaining"] -= 1
                 write_timer_file()
-            elif state["status"] == "running":
-                state["status"] = "ready"
-                state["remaining"] = TIMER_DURATION
+            elif state["status"] == "running" and state["remaining"] == 0:
+                # Timer reached zero, stop counting down and stay at 0
+                state["status"] = "paused"  # or keep "running" but no countdown
                 write_timer_file()
+
 
 def timer_loop2():
     print("⏱ Timer loop 2 started.")
@@ -67,10 +68,10 @@ def timer_loop2():
             if state2["status"] == "running" and state2["remaining"] > 0:
                 state2["remaining"] -= 1
                 write_timer_file2()
-            elif state2["status"] == "running":
-                state2["status"] = "ready"
-                state2["remaining"] = TIMER_DURATION
+            elif state2["status"] == "running" and state2["remaining"] == 0:
+                state2["status"] = "paused"
                 write_timer_file2()
+
 
 def websocket_handler():
     global ws
